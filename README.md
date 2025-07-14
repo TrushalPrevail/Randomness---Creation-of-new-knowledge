@@ -23,7 +23,7 @@ This means some “patterns” in data can arise purely by chance — an importa
 
 [👉 View the live site here](https://github.com/TrushalPrevail/random-peaks-story)
 
-*(Replace with your actual link once GitHub Pages is enabled!)*
+
 
 ## 📂 How to Use
 
