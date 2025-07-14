@@ -27,8 +27,8 @@ This means some “patterns” in data can arise purely by chance — an importa
 
 ## 📂 How to Use
 
-- All the code is in `RandomStory.html` — it’s fully self-contained.
-- Open `RandomStory.html` in any web browser to view it.
+- All the code is in `index.html` — it’s fully self-contained.
+- Open `index.html` in any web browser to view it.
 - Or host it with GitHub Pages for a public link.
 
 ## 🧩 How It Works
