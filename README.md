@@ -21,7 +21,7 @@ This means some “patterns” in data can arise purely by chance — an importa
 
 ## 🌐 Live Demo
 
-[👉 View the live site here](https://github.com/TrushalPrevail/random-peaks-story)
+[👉 View the live site here](https://trushalprevail.github.io/random-peaks-story/)
 
 
 
