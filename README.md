@@ -21,14 +21,14 @@ This means some “patterns” in data can arise purely by chance — an importa
 
 ## 🌐 Live Demo
 
-[👉 View the live site here](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
+[👉 View the live site here](https://github.com/TrushalPrevail/random-peaks-story)
 
 *(Replace with your actual link once GitHub Pages is enabled!)*
 
 ## 📂 How to Use
 
-- All the code is in `index.html` — it’s fully self-contained.
-- Open `index.html` in any web browser to view it.
+- All the code is in `RandomStory.html` — it’s fully self-contained.
+- Open `RandomStory.html` in any web browser to view it.
 - Or host it with GitHub Pages for a public link.
 
 ## 🧩 How It Works
